@@ -7,8 +7,8 @@ I build full-stack applications, APIs, AI-powered automation workflows, and data
 
 ## 🚀 What I Work On
 
-- 🤖 AI Automation & Agents — n8n, Make, Zapier, OpenAI API
 - 💻 Full-Stack Development — React, Next.js, Node.js, TypeScript
+- 🤖 AI Automation & Agents — n8n, Make, Zapier, OpenAI API
 - ⚙️ Backend Engineering — Python, FastAPI, Django, Express.js
 - 🗄️ Database Management — PostgreSQL, MySQL, MongoDB, Redis
 - ☁️ Cloud & DevOps — AWS, Docker, Linux, GitHub Actions
